@@ -41,7 +41,7 @@ Atualmente atuo no setor hospitalar, lidando com infraestrutura, suporte a siste
   Sistema educacional com cadastro de usuários, controle de cursos e painel administrativo.  
   Tecnologias: PHP, SQL Server, Bootstrap, JavaScript
 
-- [**ARGAL - Gestão de Avaliações 360º**](https://github.com/luizmorais12/ARGAL)  
+- [**ARGAL - Serviços Domesticos**](https://github.com/luizmorais12/ARGAL)  
   Plataforma para avaliações de desempenho com sistema de pontuação e ranking.  
   Tecnologias: Java, Java Swing, SQLite
 
