@@ -1,12 +1,8 @@
-<!-- Banner no topo -->
-<p align="center">
-<img src="./banner-luiz.png" alt="Banner Luiz Henrique" height="200" width="80%" />
-
-
-
-</p>
-
 <h1 align="center">Olá! Eu sou o Luiz Henrique 👋</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="100"/>
+</p>
 
 <p align="center">
 Técnico em Informática e Desenvolvedor Web apaixonado por tecnologia, inovação e desafios que me fazem evoluir.  
@@ -18,7 +14,8 @@ Atualmente atuo no setor hospitalar, lidando com infraestrutura, suporte a siste
 ### 🧠 Sobre mim
 
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas**  
-- 🏥 Atuo como **Técnico de Informática** em um hospital  
+- 💻 Atualmente cursando **Engenharia de Software**  
+- 🏥 Atuo como **Supervisor de Informática** em um hospital  
 - 🔧 Experiência com **Active Directory, GPOs, servidores, suporte e desenvolvimento web**  
 - 🚀 Sempre em busca de **aprender novas tecnologias** e aplicar no dia a dia  
 
