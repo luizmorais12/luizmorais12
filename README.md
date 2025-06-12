@@ -1,8 +1,9 @@
-<h1 align="center">Olá! Eu sou o Luiz Henrique 👋</h1>
-
+<!-- Banner no topo -->
 <p align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="100"/>
+  <img src="./banner-luiz.png" alt="Banner Luiz Henrique" />
 </p>
+
+<h1 align="center">Olá! Eu sou o Luiz Henrique 👋</h1>
 
 <p align="center">
 Técnico em Informática e Desenvolvedor Web apaixonado por tecnologia, inovação e desafios que me fazem evoluir.  
