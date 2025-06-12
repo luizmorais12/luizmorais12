@@ -1,6 +1,6 @@
 <!-- Banner no topo -->
 <p align="center">
-<img src="./banner-luiz.png" alt="Banner Luiz Henrique" width="50%" />
+<img src="./banner-luiz.png" alt="Banner Luiz Henrique" height="200" width="50%" />
 
 
 
