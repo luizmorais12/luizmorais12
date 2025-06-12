@@ -1,6 +1,7 @@
 <!-- Banner no topo -->
 <p align="center">
-  <img src="./banner-luiz.png" alt="Banner Luiz Henrique" />
+  <img src="./banner-luiz.png.png" alt="Banner Luiz Henrique" />
+
 </p>
 
 <h1 align="center">Olá! Eu sou o Luiz Henrique 👋</h1>
