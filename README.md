@@ -15,7 +15,7 @@ Atualmente atuo no setor hospitalar, lidando com infraestrutura, suporte a siste
 
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas**  
 - 💻 Atualmente cursando **Engenharia de Software**  
-- 🏥 Atuo como **Supervisor de Informática** em um hospital  
+- 🏥 Atuo como **Tecnico de Informática** em um hospital  
 - 🔧 Experiência com **Active Directory, GPOs, servidores, suporte e desenvolvimento web**  
 - 🚀 Sempre em busca de **aprender novas tecnologias** e aplicar no dia a dia  
 
